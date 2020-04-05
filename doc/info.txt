@@ -1,1 +1,5 @@
-aula em: 49:49
+aula em:1:29:05
+pacotes utilizados:
+
+react-router-dom
+react-icons
